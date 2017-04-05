@@ -1,0 +1,59 @@
+,household_type,kind,total_income,county
+0,Households,Estimate,558907,Alameda
+1,Households,Estimate,358,Alpine
+2,Households,Estimate,13925,Amador
+3,Households,Estimate,85318,Butte
+4,Households,Estimate,18060,Calaveras
+5,Households,Estimate,6966,Colusa
+6,Households,Estimate,384646,Contra Costa
+7,Households,Estimate,9420,Del Norte
+8,Households,Estimate,67086,El Dorado
+9,Households,Estimate,296305,Fresno
+10,Households,Estimate,9497,Glenn
+11,Households,Estimate,53036,Humboldt
+12,Households,Estimate,46452,Imperial
+13,Households,Estimate,7957,Inyo
+14,Households,Estimate,259700,Kern
+15,Households,Estimate,41554,Kings
+16,Households,Estimate,26993,Lake
+17,Households,Estimate,9707,Lassen
+18,Households,Estimate,3263069,Los Angeles
+19,Households,Estimate,43159,Madera
+20,Households,Estimate,103670,Marin
+21,Households,Estimate,7345,Mariposa
+22,Households,Estimate,34017,Mendocino
+23,Households,Estimate,77692,Merced
+24,Households,Estimate,3745,Modoc
+25,Households,Estimate,4906,Mono
+26,Households,Estimate,125402,Monterey
+27,Households,Estimate,49494,Napa
+28,Households,Estimate,40993,Nevada
+29,Households,Estimate,1009353,Orange
+30,Households,Estimate,135456,Placer
+31,Households,Estimate,8217,Plumas
+32,Households,Estimate,699232,Riverside
+33,Households,Estimate,522596,Sacramento
+34,Households,Estimate,17198,San Benito
+35,Households,Estimate,614325,San Bernardino
+36,Households,Estimate,1094157,San Diego
+37,Households,Estimate,353287,San Francisco
+38,Households,Estimate,219073,San Joaquin
+39,Households,Estimate,103576,San Luis Obispo
+40,Households,Estimate,259711,San Mateo
+41,Households,Estimate,142713,Santa Barbara
+42,Households,Estimate,621463,Santa Clara
+43,Households,Estimate,94802,Santa Cruz
+44,Households,Estimate,69375,Shasta
+45,Households,Estimate,1252,Sierra
+46,Households,Estimate,19133,Siskiyou
+47,Households,Estimate,143612,Solano
+48,Households,Estimate,187782,Sonoma
+49,Households,Estimate,169196,Stanislaus
+50,Households,Estimate,31917,Sutter
+51,Households,Estimate,23704,Tehama
+52,Households,Estimate,5484,Trinity
+53,Households,Estimate,133570,Tulare
+54,Households,Estimate,22133,Tuolumne
+55,Households,Estimate,268969,Ventura
+56,Households,Estimate,71997,Yolo
+57,Households,Estimate,25139,Yuba

@@ -1,0 +1,59 @@
+,RegionName,sold_15,district
+0,Los Angeles,498737.5,south
+1,Orange,601020.833333,south
+2,San Diego,472187.5,south
+3,Riverside,309068.75,south
+4,San Bernardino,264327.083333,south
+5,Santa Clara,799250.0,north
+6,Alameda,614795.833333,north
+7,Sacramento,275108.333333,north
+8,Contra Costa,473875.0,north
+9,Fresno,221333.333333,north
+10,Ventura,502218.75,south
+11,San Francisco,1107920.83333,north
+12,Kern,197554.166667,south
+13,San Mateo,919250.0,north
+14,San Joaquin,276945.833333,north
+15,Stanislaus,238843.75,north
+16,Sonoma,475379.166667,north
+17,Tulare,182336.25,north
+18,Solano,330375.0,north
+19,Monterey,457554.166667,north
+20,Santa Barbara,466010.416667,south
+21,Placer,384287.5,north
+22,San Luis Obispo,480470.833333,south
+23,Santa Cruz,625782.916667,north
+24,Merced,198189.583333,north
+25,Marin,858241.666667,north
+26,Butte,242745.833333,north
+27,Yolo,345920.833333,north
+28,El Dorado,380866.666667,north
+29,Shasta,222543.75,north
+30,Imperial,184225.0,south
+31,Kings,184479.166667,north
+32,Madera,208508.333333,north
+33,Napa,526554.166667,north
+34,Humboldt,243625.0,north
+35,Nevada,364007.083333,north
+36,Sutter,226341.666667,north
+37,Mendocino,305520.833333,north
+38,Yuba,220610.416667,north
+39,Lake,193558.333333,north
+40,Tehama,174250.0,north
+41,Tuolumne,210454.166667,north
+42,San Benito,449687.5,north
+43,Calaveras,244854.166667,north
+44,Siskiyou,144717.5,north
+45,Amador,243933.333333,north
+46,Lassen,131600.0,north
+47,Del Norte,158729.1308,north
+48,Glenn,186926.719457,north
+49,Plumas,219449.42308,north
+50,Colusa,170000.0,north
+51,Mariposa,211091.666667,north
+52,Inyo,300000.0,north
+53,Trinity,186246.224563,north
+54,Mono,314987.5,north
+55,Modoc,,north
+56,Sierra,150000.0,north
+57,Alpine,,north
